@@ -2,7 +2,7 @@
 <h2>I am a Junior Web Developer in Bristol, UK </h2>
 <p>I am currently on the _Nology Technology Consultant Course<p>
   <ul>
-    <li>Working through the basics of CSS/HTML with Javascript Interactions</li>
+    <li>Working through the basics of CSS/HTML/Javascript</li>
     <li>Using tools such as Figma and GitBash to streamline website development</li>
   </ul>
   
