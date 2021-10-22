@@ -1,10 +1,5 @@
 <h1>Hello There</h1>
-<h2>I am a Junior Web Developer in Bristol, UK </h2>
-<p>I am currently on the _Nology Technology Consultant Course<p>
-  <ul>
-    <li>Working through the basics of CSS/HTML/Javascript</li>
-    <li>Using tools such as Figma and GitBash to streamline website development</li>
-  </ul>
+<h2>I am a Mobile App Developer in Bristol, UK </h2>
   
 <p>Say Hello!<p> 
 <img align="left" alt="outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"> luke.tunstallll@hotmail.com
